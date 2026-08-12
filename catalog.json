@@ -1,0 +1,14 @@
+{
+  "catalogVersion": 1,
+  "songs": [
+    {
+      "songId": "test_song",
+      "title": "Test Song",
+      "artist": "Kreg",
+      "chunkId": 1,
+      "chunkVersion": 1,
+      "songDefinitionAsset": "/Game/Songs/Test/DA_TestSong.DA_TestSong",
+      "minAppVersion": 1
+    }
+  ]
+}
