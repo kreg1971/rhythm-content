@@ -1,7 +1,7 @@
 {
   "catalogVersion": 1,
   "deploymentName": "RythmGameContent",
-  "contentBuildId": "v1",
+  "contentBuildId": "V1",
   "songs": [
     {
       "songId": "test_song",
