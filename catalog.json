@@ -1,7 +1,7 @@
 {
   "catalogVersion": 1,
   "deploymentName": "RythmGameContent",
-  "contentBuildId": "V1",
+  "contentBuildId": "V2",
   "songs": [
     {
       "songId": "test_song",
@@ -10,6 +10,15 @@
       "chunkId": 1,
       "chunkVersion": 1,
       "songDefinitionAsset": "/Game/Songs/Test/DA_TestSong.DA_TestSong",
+      "minAppVersion": 1
+    },
+    {
+      "songId": "believer",
+      "title": "Believer",
+      "artist": "Imagine Dragons",
+      "chunkId": 2,
+      "chunkVersion": 1,
+      "songDefinitionAsset": "/Game/Songs/Believer/DA_Believer.DA_Believer",
       "minAppVersion": 1
     }
   ]
