@@ -4,9 +4,9 @@
   "contentBuildId": "V2",
   "songs": [
     {
-      "songId": "test_song",
-      "title": "Test Song",
-      "artist": "Kreg",
+      "songId": "7_rings",
+      "title": "7 Rings",
+      "artist": "Ariana Grande",
       "chunkId": 1,
       "chunkVersion": 1,
       "songDefinitionAsset": "/Game/Songs/Test/DA_TestSong.DA_TestSong",
