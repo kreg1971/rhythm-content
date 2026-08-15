@@ -1,7 +1,7 @@
 {
   "catalogVersion": 1,
   "deploymentName": "RythmGameContent",
-  "contentBuildId": "V2",
+  "contentBuildId": "V1",
   "songs": [
     {
       "songId": "7_rings",
