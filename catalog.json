@@ -10,6 +10,12 @@
       "chunkId": 1,
       "chunkVersion": 1,
       "songDefinitionAsset": "/Game/Songs/Test/DA_TestSong.DA_TestSong",
+      "variants": [
+      {
+      "id": "7_rings_Standard",
+      "displayName": "Standard"
+      }
+      ],
       "minAppVersion": 1
     },
     {
@@ -19,6 +25,12 @@
       "chunkId": 2,
       "chunkVersion": 1,
       "songDefinitionAsset": "/Game/Songs/Believer/DA_Believer.DA_Believer",
+      "variants": [
+      {
+      "id": "believer_standard",
+      "displayName": "Standard"
+      }
+      ],
       "minAppVersion": 1
     }
   ]
