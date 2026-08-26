@@ -32,6 +32,21 @@
       }
       ],
       "minAppVersion": 1
+    },
+        {
+      "songId": "faded",
+      "title": "Faded",
+      "artist": "Alan Walker",
+      "chunkId": 3,
+      "chunkVersion": 1,
+      "songDefinitionAsset": "/Game/Songs/Faded/DA_Faded.DA_Faded",
+      "variants": [
+      {
+      "id": "faded_standard",
+      "displayName": "Standard"
+      }
+      ],
+      "minAppVersion": 1
     }
   ]
 }
