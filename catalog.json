@@ -54,7 +54,7 @@
       "artist": "Teddy Swims",
       "chunkId": 4,
       "chunkVersion": 1,
-      "songDefinitionAsset": "/Game/Songs/Faded/DA_LoseControl.DA_LoseControl",
+      "songDefinitionAsset": "/Game/Songs/LoseControl/DA_LoseControl.DA_LoseControl",
       "variants": [
       {
       "id": "loseControl_standard",
