@@ -33,7 +33,7 @@
       ],
       "minAppVersion": 1
     },
-        {
+    {
       "songId": "faded",
       "title": "Faded",
       "artist": "Alan Walker",
@@ -47,6 +47,21 @@
       }
       ],
       "minAppVersion": 1
-    }
+    },
+    {
+      "songId": "loseControl",
+      "title": "Lose Control",
+      "artist": "Teddy Swims",
+      "chunkId": 4,
+      "chunkVersion": 1,
+      "songDefinitionAsset": "/Game/Songs/Faded/DA_LoseControl.DA_LoseControl",
+      "variants": [
+      {
+      "id": "loseControl_standard",
+      "displayName": "Standard"
+      }
+      ],
+      "minAppVersion": 1
+    }    
   ]
 }
