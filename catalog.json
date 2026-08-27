@@ -74,7 +74,19 @@
       {
       "id": "apt_standard",
       "displayName": "Standard"
-      }
+      },
+    {
+      "songId": "badguy",
+      "title": "Bad Guy",
+      "artist": "Billie Eilish",
+      "chunkId": 6,
+      "chunkVersion": 1,
+      "songDefinitionAsset": "/Game/Songs/BadGuy/DA_BadGuy.DA_BadGuy",
+      "variants": [
+      {
+      "id": "badguy_standard",
+      "displayName": "Standard"
+      }        
       ],
       "minAppVersion": 1
     }       
