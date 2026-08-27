@@ -74,6 +74,9 @@
       {
       "id": "apt_standard",
       "displayName": "Standard"
+      }      
+      ],
+      "minAppVersion": 1
       },
     {
       "songId": "badguy",
