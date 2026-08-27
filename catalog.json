@@ -89,6 +89,21 @@
       }        
       ],
       "minAppVersion": 1
-    }       
+    },
+    {
+      "songId": "stressedOut",
+      "title": "Stressed Out",
+      "artist": "Twenty One Pilots",
+      "chunkId": 7,
+      "chunkVersion": 1,
+      "songDefinitionAsset": "/Game/Songs/StressedOut/DA_StressedOut.DA_StressedOut",
+      "variants": [
+      {
+      "id": "stressedout_standard",
+      "displayName": "Standard"
+      }        
+      ],
+      "minAppVersion": 1
+    }          
   ]
 }
