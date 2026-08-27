@@ -62,6 +62,21 @@
       }
       ],
       "minAppVersion": 1
-    }    
+    },
+    {
+      "songId": "apt",
+      "title": "APT",
+      "artist": "ROSE & Bruno Mars",
+      "chunkId": 5,
+      "chunkVersion": 1,
+      "songDefinitionAsset": "/Game/Songs/Apt/DA_Apt.DA_Apt",
+      "variants": [
+      {
+      "id": "apt_standard",
+      "displayName": "Standard"
+      }
+      ],
+      "minAppVersion": 1
+    }       
   ]
 }
