@@ -107,6 +107,21 @@
       }        
       ],
       "minAppVersion": 1
-    }          
+    },
+    {
+      "songId": "wrong",
+      "title": "Wrong",
+      "artist": "Depeche Mode",
+      "chunkId": 8,
+      "chunkVersion": 3,
+      "songDefinitionAsset": "/Game/Songs/Wrong/DA_Wrong.DA_Wrong",
+      "variants": [
+      {
+      "id": "wrong_standard",
+      "displayName": "Standard"
+      }        
+      ],
+      "minAppVersion": 1
+    }      
   ]
 }
