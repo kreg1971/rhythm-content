@@ -8,7 +8,7 @@
       "title": "7 Rings",
       "artist": "Ariana Grande",
       "chunkId": 1,
-      "chunkVersion": 1,
+      "chunkVersion": 3,
       "songDefinitionAsset": "/Game/Songs/Test/DA_TestSong.DA_TestSong",
       "variants": [
       {
@@ -23,7 +23,7 @@
       "title": "Believer",
       "artist": "Imagine Dragons",
       "chunkId": 2,
-      "chunkVersion": 1,
+      "chunkVersion": 3,
       "songDefinitionAsset": "/Game/Songs/Believer/DA_Believer.DA_Believer",
       "variants": [
       {
@@ -38,7 +38,7 @@
       "title": "Faded",
       "artist": "Alan Walker",
       "chunkId": 3,
-      "chunkVersion": 1,
+      "chunkVersion": 3,
       "songDefinitionAsset": "/Game/Songs/Faded/DA_Faded.DA_Faded",
       "variants": [
       {
@@ -53,7 +53,7 @@
       "title": "Lose Control",
       "artist": "Teddy Swims",
       "chunkId": 4,
-      "chunkVersion": 1,
+      "chunkVersion": 3,
       "songDefinitionAsset": "/Game/Songs/LoseControl/DA_LoseControl.DA_LoseControl",
       "variants": [
       {
@@ -68,7 +68,7 @@
       "title": "APT",
       "artist": "ROSE & Bruno Mars",
       "chunkId": 5,
-      "chunkVersion": 1,
+      "chunkVersion": 3,
       "songDefinitionAsset": "/Game/Songs/Apt/DA_Apt.DA_Apt",
       "variants": [
       {
@@ -83,7 +83,7 @@
       "title": "Bad Guy",
       "artist": "Billie Eilish",
       "chunkId": 6,
-      "chunkVersion": 1,
+      "chunkVersion": 3,
       "songDefinitionAsset": "/Game/Songs/BadGuy/DA_BadGuy.DA_BadGuy",
       "variants": [
       {
@@ -98,7 +98,7 @@
       "title": "Stressed Out",
       "artist": "Twenty One Pilots",
       "chunkId": 7,
-      "chunkVersion": 1,
+      "chunkVersion": 3,
       "songDefinitionAsset": "/Game/Songs/StressedOut/DA_StressedOut.DA_StressedOut",
       "variants": [
       {
